@@ -1,0 +1,18 @@
+EXPEDIENTE INTEGRAL DE OPERACIÓN ADUANERA - VERSIÓN 2.0
+Proyecto académico Universidad Anáhuac Mayab · 11/11/2026
+
+Este ZIP es un proyecto NUEVO y autónomo para GitHub Pages.
+
+1. Descomprime el archivo ZIP.
+2. Crea un repositorio nuevo en GitHub.
+3. Sube TODO EL CONTENIDO de la carpeta a la raíz del repositorio.
+4. Verifica que index.html quede directamente en la raíz.
+5. Settings -> Pages -> main -> /(root) -> Save.
+6. Comprueba los botones Ver, Descargar y Ficha en la biblioteca.
+
+Contenido: 33 fichas originales + 11 complementarias, 27 archivos de Drive,
+1 constancia de revalidación académica del B/L, 7 evidencias UVA.
+
+ATENCIÓN: Archivo académico con documentos que simulan certificados, pedimento,
+COVE y dictámenes. No válido para despacho. Examina AUDITORIA.md antes de
+publicar archivos que contienen nombres, firmas o representaciones de sellos.
